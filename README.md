@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/mihikakrishna">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihikakrishna&show_icons=true" alt="Mihika's GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihikakrishna&layout=compact" alt="Mihika's Top Languages" />
   </a>
 </p>
