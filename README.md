@@ -2,7 +2,7 @@
 
 🔭 I'm currently studying **Computer Science and Engineering** at the **University of California, Davis**. I love coding and exploring the intricacies of algorithms and data structures. My passion for technology extends beyond the classroom; I'm always eager to take on challenging projects and immerse myself in hands-on learning experiences. From developing full-stack applications to delving deep into machine learning models, I enjoy pushing the boundaries of what I know and continuously expanding my technical horizons.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mihikakrishna">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihikakrishna&layout=compact" alt="Mihika's Top Languages" />
   </a>
