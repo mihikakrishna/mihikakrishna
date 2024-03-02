@@ -10,9 +10,8 @@
 
 ## 💼 Skills & Experience
 
-- **Languages**: Python, R, Java, C#, C, C++, Javascript, HTML, CSS, SQL
-- **Frameworks/Libraries**: React, Node.js, Django, NumPy, Pandas, Matplotlib, Tensorflow, OpenCV
-- **Tools**: Git, Docker, Kubernetes, Azure, Jenkins
+- **Languages**: Python, C#, C, C++, Java, Objective-C, Swift, JavaScript, HTML, CSS, R, SQL
+- **Frameworks/Libraries/Tools**: Git, Docker, Kubernetes, AWS, Azure, Django, React, Flask, Node.js, PyTorch, MongoDB
 
 ## 🌱 Work Experience
 
@@ -24,14 +23,14 @@
     - Architected and deployed tools for RelativityOne, focusing on server-side operations and in-app custom pages using ASP.NET MVC.
     - Facilitated client-server interactions using REST APIs and designed automated tests.
 
-- **Data Analyst & Web Developer at Joseph Lab, Davis** (Feb 2022 - Present)
+- **Student Researcher Joseph Lab, Davis** (Feb 2022 - Present)
     - Focused on data manipulation and visualization using Python and R.
     - Maintained multiple webpages and developed data processing pipelines.
 
 ## 🌐 Find me around the web
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mihika-krishna/)
-- 📂 [GitHub](https://github.com/mihikakrishna)
+- 📂 [Portfolio]((https://mihikakrishna.github.io/)
 
 💌 If you'd like to get in touch, feel free to say hello through any of the social links above or send me an [email](mailto:krishna.mihika@gmail.com).
 
