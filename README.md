@@ -30,7 +30,7 @@
 ## 🌐 Find me around the web
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mihika-krishna/)
-- 📂 [Portfolio]((https://mihikakrishna.github.io/)
+- 📂 [Portfolio](https://mihikakrishna.github.io/)
 
 💌 If you'd like to get in touch, feel free to say hello through any of the social links above or send me an [email](mailto:krishna.mihika@gmail.com).
 
