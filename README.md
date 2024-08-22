@@ -23,7 +23,7 @@
     - Architected and deployed tools for RelativityOne, focusing on server-side operations and in-app custom pages using ASP.NET MVC.
     - Facilitated client-server interactions using REST APIs and designed automated tests.
 
-- **Student Researcher Joseph Lab, Davis** (Feb 2022 - Present)
+- **Undergrad Researcher Joseph Lab, Davis** (Feb 2022 - Present)
     - Focused on data manipulation and visualization using Python and R.
     - Maintained multiple webpages and developed data processing pipelines.
 
