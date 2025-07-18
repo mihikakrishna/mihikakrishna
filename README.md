@@ -1,39 +1,84 @@
-# 👋 Hi, I'm Mihika!
-
-🔭 I'm currently studying **Computer Science and Engineering** at the **University of California, Davis**. I love coding and exploring the intricacies of algorithms and data structures. My passion for technology extends beyond the classroom; I'm always eager to take on challenging projects and immerse myself in hands-on learning experiences. From developing full-stack applications to delving deep into machine learning models, I enjoy pushing the boundaries of what I know and continuously expanding my technical horizons.
-
-<p align="left">
-  <a href="https://github.com/mihikakrishna">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihikakrishna&layout=compact" alt="Mihika's Top Languages" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Hello!+I'm+Mihika+%EF%B8%8F;Computer+Science+and+Engineering+Survivor+%EF%B8%8F;Clean+code+enthusiast+%EF%B8%8F;keeb+lover%EF%B8%8F" />
 </p>
 
-## 💼 Skills & Experience
+---
 
-- **Languages**: Python, C#, C, C++, Java, Objective-C, Swift, JavaScript, HTML, CSS, R, SQL
-- **Frameworks/Libraries/Tools**: Git, Docker, Kubernetes, AWS, Azure, Django, React, Flask, Node.js, PyTorch, MongoDB
+## Tech Stack
 
-## 🌱 Work Experience
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70" />
+</p>
 
-- **Software Engineer Intern at HP, San Diego** (Jun 2023 - Sep 2023)
-    - Developed a fullstack interface for HP Smart App testing and implemented real-time analytics for mobile devices. 
-    - Worked extensively with C and GTK.
+---
 
-- **Software Engineer Intern at Relativity, Chicago** (Jun 2022 - Sep 2022)
-    - Architected and deployed tools for RelativityOne, focusing on server-side operations and in-app custom pages using ASP.NET MVC.
-    - Facilitated client-server interactions using REST APIs and designed automated tests.
+## Work Experience
 
-- **Undergrad Researcher Joseph Lab, Davis** (Feb 2022 - Present)
-    - Focused on data manipulation and visualization using Python and R.
-    - Maintained multiple webpages and developed data processing pipelines.
+<table>
+  <tr>
+    <td><strong>Software Engineer AMTS at Salesforce</strong><br><em>San Francisco — May 2025 – Present</em><br>Implementing features and stability fixes across Industries and Service Clouds.</td>
+  </tr>
+  <tr>
+    <td><strong>Associate Software Engineer at Veeva</strong><br><em>Pleasanton — Aug 2024 – May 2025</em><br>Implemented stability fixes across Web, Salesforce Apex, and Windows platforms in Apex, C#, Java, and JavaScript.</td>
+  </tr>
+  <tr>
+    <td><strong>Software Engineer Intern at HP</strong><br><em>San Diego — Jun 2023 – Sep 2023</em><br>Developed a full-stack interface for HP Smart App testing and implemented real-time analytics using C and GTK.</td>
+  </tr>
+  <tr>
+    <td><strong>Software Engineer Intern at Relativity</strong><br><em>Chicago — Jun 2022 – Sep 2022</em><br>Architected and deployed tools for RelativityOne using ASP.NET MVC, REST APIs, and automated testing.</td>
+  </tr>
+  <tr>
+    <td><strong>Web Developer at Joseph Lab</strong><br><em>Davis — Feb 2022 – June 2024</em><br>Data processing and visualization using Python and R. Maintained lab web tools and built data pipelines.</td>
+  </tr>
+</table>
 
-## 🌐 Find me around the web
+---
+
+## Analytics
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mihikakrishna&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihikakrishna&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=mihikakrishna&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mihikakrishna&theme=radical&no-frame=true&row=1&margin-w=15" />
+</p>
+
+<p align="center">
+  <!-- Social Stats Badges -->
+  <img src="https://img.shields.io/github/followers/mihikakrishna?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/mihikakrishna?style=social" />
+</p>
+
+---
+
+## Find me around the web
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mihika-krishna/)
 - 📂 [Portfolio](https://mihikakrishna.github.io/)
+- ✉️ [Email Me](mailto:krishna.mihika@gmail.com)
 
-💌 If you'd like to get in touch, feel free to say hello through any of the social links above or send me an [email](mailto:krishna.mihika@gmail.com).
-
-Thanks for stopping by!
-
-
+Thanks for stopping by! 🌟
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mihikakrishna.mihikakrishna)
